@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Games
 %define	pnam	Chess
-Summary:	Games-Chess perl module
-Summary(pl):	Modu³ perla Games-Chess
+Summary:	Games::Chess perl module
+Summary(pl):	Modu³ perla Games::Chess
 Name:		perl-Games-Chess
 Version:	0.003
 Release:	6
@@ -16,11 +16,11 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Games-Chess provides Games::Chess::Piece and Games::Chess::Position
+Games::Chess provides Games::Chess::Piece and Games::Chess::Position
 classes to represent a chess game data.
 
 %description -l pl
-Games-Chess udosêpnia klasy Games::Chess::Piece i
+Games::Chess udosêpnia klasy Games::Chess::Piece i
 Games::Chess::Position s³u¿±ce do przedstawiania danych w grze
 szachowej.
 
