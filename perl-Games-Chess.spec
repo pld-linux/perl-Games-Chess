@@ -5,7 +5,7 @@ Summary:	Games::Chess perl module
 Summary(pl):	Modu³ perla Games::Chess
 Name:		perl-Games-Chess
 Version:	0.003
-Release:	7
+Release:	8
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -42,6 +42,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc README
-%dir %{perl_sitelib}/Games
 %{perl_sitelib}/Games/Chess.pm
 %{_mandir}/man3/*
