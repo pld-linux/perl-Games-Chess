@@ -1,0 +1,2 @@
+- release : rebuild against perl 5.6 and use rpm automation,
+- removed obsoleted patch.
