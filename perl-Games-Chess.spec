@@ -20,7 +20,7 @@ Summary(uk):	Модуль для Perl Games::Chess
 Summary(zh_CN):	Games::Chess Perl дё©И
 Name:		perl-Games-Chess
 Version:	0.003
-Release:	9
+Release:	10
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
