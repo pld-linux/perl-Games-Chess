@@ -9,7 +9,7 @@ Summary:	Games::Chess - represent chess positions and games
 Summary(pl):	Games::Chess - reprezentacja ruchów i pozycji szachowych
 Name:		perl-Games-Chess
 Version:	0.003
-Release:	10
+Release:	11
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
