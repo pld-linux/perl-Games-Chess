@@ -57,5 +57,6 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc README
+%dir %{perl_sitelib}/Games
 %{perl_sitelib}/Games/Chess.pm
 %{_mandir}/man3/*
