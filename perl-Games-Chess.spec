@@ -1,12 +1,11 @@
+%include	/usr/lib/rpm/macros.perl
 %define	pdir	Games
 %define	pnam	Chess
-%include	/usr/lib/rpm/macros.perl
 Summary:	Games-Chess perl module
 Summary(pl):	Modu³ perla Games-Chess
 Name:		perl-Games-Chess
 Version:	0.003
-Release:	5
-
+Release:	6
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -26,7 +25,7 @@ Games::Chess::Position s³u¿±ce do przedstawiania danych w grze
 szachowej.
 
 %prep
-%setup -q -n Games-Chess-%{version}
+%setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
 perl Makefile.PL
