@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Games
-%define	pnam	Chess
+%define		pdir	Games
+%define		pnam	Chess
 Summary:	Games::Chess - represent chess positions and games
 Summary(pl):	Games::Chess - reprezentacja ruchów i pozycji szachowych
 Name:		perl-Games-Chess
