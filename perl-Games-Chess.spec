@@ -2,8 +2,8 @@
 Summary:	Games-Chess perl module
 Summary(pl):	Modu³ perla Games-Chess
 Name:		perl-Games-Chess
-Version:	0.002
-Release:	3
+Version:	0.003
+Release:	1
 Copyright:	GPL
 Group:		Development/Languages/Perl
 Group(pl):	Programowanie/Jêzyki/Perl
