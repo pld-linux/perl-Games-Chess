@@ -10,7 +10,7 @@ Summary(fr):	Module Perl Games::Chess
 Summary(it):	Modulo di Perl Games::Chess
 Summary(ja):	Games::Chess Perl ¥â¥¸¥å¡¼¥ë
 Summary(ko):	Games::Chess ÆÞ ¸ðÁÙ
-Summary(no):	Perlmodul Games::Chess
+Summary(nb):	Perlmodul Games::Chess
 Summary(pl):	Modu³ Perla Games::Chess
 Summary(pt):	Módulo de Perl Games::Chess
 Summary(pt_BR):	Módulo Perl Games::Chess
