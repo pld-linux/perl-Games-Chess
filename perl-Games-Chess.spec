@@ -6,7 +6,7 @@
 %define		pdir	Games
 %define		pnam	Chess
 Summary:	Games::Chess - represent chess positions and games
-Summary(pl):	Games::Chess - reprezentacja ruchów i pozycji szachowych
+Summary(pl.UTF-8):   Games::Chess - reprezentacja ruchÃ³w i pozycji szachowych
 Name:		perl-Games-Chess
 Version:	0.003
 Release:	11
@@ -25,9 +25,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Games::Chess Perl module provides Games::Chess::Piece and
 Games::Chess::Position classes to represent a chess game data.
 
-%description -l pl
-Modu³ Perla Games::Chess udostêpnia klasy Games::Chess::Piece i
-Games::Chess::Position s³u¿±ce do przedstawiania danych w grze
+%description -l pl.UTF-8
+ModuÅ‚ Perla Games::Chess udostÄ™pnia klasy Games::Chess::Piece i
+Games::Chess::Position sÅ‚uÅ¼Ä…ce do przedstawiania danych w grze
 szachowej.
 
 %prep
