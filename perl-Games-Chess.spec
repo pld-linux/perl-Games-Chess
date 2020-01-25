@@ -4,7 +4,6 @@
 
 %define		pdir	Games
 %define		pnam	Chess
-%include	/usr/lib/rpm/macros.perl
 Summary:	Games::Chess - represent chess positions and games
 Summary(pl.UTF-8):	Games::Chess - reprezentacja ruchów i pozycji szachowych
 Name:		perl-Games-Chess
